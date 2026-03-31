@@ -83,7 +83,6 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* ── FIX: App root must fill full width ── */
 .App {
   width: 100%;
   overflow-x: hidden;
@@ -346,7 +345,6 @@ nav {
   66% { transform: translate(-80px, 80px) scale(0.9); }
 }
 
-/* ── FIX: hero-content must not exceed container ── */
 .hero-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -362,7 +360,7 @@ nav {
 
 .hero-text {
   animation: fadeInUp 0.8s ease-out;
-  min-width: 0; /* ── FIX: prevents grid blowout ── */
+  min-width: 0; 
 }
 
 .greeting {
@@ -535,7 +533,7 @@ nav {
   display: flex;
   justify-content: center;
   animation: fadeInRight 0.8s ease-out;
-  min-width: 0; /* ── FIX: prevents grid blowout ── */
+  min-width: 0; 
 }
 
 .profile-wrapper {

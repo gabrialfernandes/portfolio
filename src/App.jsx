@@ -88,7 +88,7 @@ function App() {
         setMobileMenuOpen={setMobileMenuOpen}
       />
 
-      {/* Hero Section */}
+      {/* Hero section */}
       <Hero scrollToSection={scrollToSection} />
 
       {/* About Section */}
