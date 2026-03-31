@@ -36,7 +36,7 @@ I'm a media professional with 5+ years of experience in ad operations, sales pla
 ## Contact
 
 - 💼 [LinkedIn](https://in.linkedin.com/in/gabrial-fernandes-061909191)
-- 🐙 [GitHub]([https://github.com/gabrialfernandes](https://github.com/gabrialfernandes))
+- 🐙 [GitHub](https://github.com/gabrialfernandes)
 
 ---
 
